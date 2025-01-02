@@ -7,7 +7,7 @@ Hi, I'm DHRUVA DK ! 👋<br>I'm a passionate Python Developer. My goal is to cre
 # 💻 Tech Stack:
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![Dhruva DK's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/DhruvaDK&hide=contribs,prs)<br/>
+![Dhruva DK's GitHub stats](https://github-readme-stats.vercel.app/https://github.com/DhruvaDK&hide=contribs,prs)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakshitsharma7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitsharma7&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
